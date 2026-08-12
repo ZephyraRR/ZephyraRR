@@ -15,18 +15,15 @@
 
 ### 🧰 Tech
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+[![My tech stack](https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,docker,git,github,linux)](https://github.com/ZephyraRR)
 
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+**AI & testing:**
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+Primarily **Python (~97% of my code)** — async backends, LLM pipelines, and web scraping.
 
 ---
 
@@ -37,17 +34,6 @@
 | **[ai-product-copy-pipeline](https://github.com/ZephyraRR/ai-product-copy-pipeline)** | Turns messy supplier descriptions into SEO copy + translation through a pluggable LLM provider (mock / OpenAI / Anthropic). Runs with zero API key via the mock provider. Tested. |
 | **[product-catalog-scraper](https://github.com/ZephyraRR/product-catalog-scraper)** | Python scraper for an e-commerce-style catalogue: retries, pagination, cleaning, dedupe, CSV/JSON export, tests. |
 | **Zephyra Outreach** *(private)* | Async lead-gen & outreach engine across 38 markets: FastAPI dashboard, 17-table schema, scheduler, email deliverability & compliance. Available to walk through on request. |
-
----
-
-### 📊 Most used languages
-
-```text
-Python   █████████████████████████████░   96.9%
-HTML     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    3.1%
-```
-
-Backend-focused — **Python across every project** (async services, LLM pipelines, scraping). HTML is dashboard templating.
 
 ---
 
