@@ -40,6 +40,17 @@
 
 ---
 
+### 📊 Most used languages
+
+```text
+Python   █████████████████████████████░   96.9%
+HTML     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    3.1%
+```
+
+Backend-focused — **Python across every project** (async services, LLM pipelines, scraping). HTML is dashboard templating.
+
+---
+
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefandjordjevic1)
