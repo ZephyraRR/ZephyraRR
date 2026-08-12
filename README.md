@@ -43,4 +43,4 @@
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefandjordjevic1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:notstefandjordjevic@gmail.com)
+[![Email](https://img.shields.io/badge/stefan@zephyrastudio.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stefan@zephyrastudio.com)
