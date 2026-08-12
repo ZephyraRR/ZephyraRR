@@ -40,12 +40,6 @@
 
 ---
 
-### 📊 Languages
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyraRR&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=0A66C2&text_color=808080&hide=html,css)
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefandjordjevic1)
