@@ -5,8 +5,11 @@
 - 🧠 I design and build production Python backends (**FastAPI, PostgreSQL, async**) and own them from schema to deployment.
 - 🤖 I work **AI-native**: LLM pipelines (Anthropic / OpenAI / local models), automation, and web scraping — with validation and tests so what I ship holds up.
 - 🛠️ Currently building **Zephyra** — a lead-generation & compliant outreach engine (async Python, 17-table schema, scheduler, deliverability).
-- 🌍 Self-taught, based in Serbia, **available for remote work**.
+- 🌍 Self-taught, based in **Serbia (CET · UTC+1)** — comfortable overlapping EU & US hours.
+- 🗣️ **English** (C1/C2, fluent) · **Serbian** (native).
 - 💬 Ask me about turning a messy real-world workflow into a reliable automated pipeline.
+
+> 🟢 **Open to remote roles** — Python / backend / AI-automation. Reach me below.
 
 ---
 
@@ -39,7 +42,7 @@
 
 ### 📊 Languages
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyraRR&layout=compact&hide_border=true&langs_count=6&theme=transparent&hide=html,css)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyraRR&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=0A66C2&text_color=808080&hide=html,css)
 
 ---
 
